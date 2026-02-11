@@ -1,0 +1,149 @@
+[
+    {
+        "staId": 1065,
+        "code": "314015",
+        "name": "ECP AYLESBURY",
+        "type": "DELIVERY_STA",
+        "postCode": "HP19 8BP"
+    },
+    {
+        "staId": 1072,
+        "code": "312019",
+        "name": "ECP BANBURY CROSS",
+        "type": "DELIVERY_STA",
+        "postCode": "OX16 5PE"
+    },
+    {
+        "staId": 1071,
+        "code": "317020",
+        "name": "ECP Barnstaple",
+        "type": "DELIVERY_STA",
+        "postCode": "EX32 8BE"
+    },
+    {
+        "staId": 1075,
+        "code": "318029",
+        "name": "ECP BOSTON",
+        "type": "DELIVERY_STA",
+        "postCode": "PE21 8RP"
+    },
+    {
+        "staId": 1077,
+        "code": "313271",
+        "name": "ECP COLCHESTER",
+        "type": "DELIVERY_STA",
+        "postCode": "CO1 1YD"
+    },
+    {
+        "staId": 1079,
+        "code": "303454",
+        "name": "ECP DUMFRIES",
+        "type": "DELIVERY_STA",
+        "postCode": "DG1 1PG"
+    },
+    {
+        "staId": 1082,
+        "code": "310027",
+        "name": "ECP Gloucester",
+        "type": "DELIVERY_STA",
+        "postCode": "GL2 5BT"
+    },
+    {
+        "staId": 1063,
+        "code": "305358",
+        "name": "ECP GRIMSBY",
+        "type": "DELIVERY_STA",
+        "postCode": "DN31 2TG"
+    },
+    {
+        "staId": 1006,
+        "code": "313009",
+        "name": "ECP Kings Lynn",
+        "type": "DELIVERY_STA",
+        "postCode": "PE34 3AE"
+    },
+    {
+        "staId": 1024,
+        "code": "303487",
+        "name": "ECP LIVINGSTON",
+        "type": "DELIVERY_STA",
+        "postCode": "EH54 5EL"
+    },
+    {
+        "staId": 1001,
+        "code": "303547",
+        "name": "ECP MOTHERWELL",
+        "type": "DELIVERY_STA",
+        "postCode": "ML1 2AP"
+    },
+    {
+        "staId": 1094,
+        "code": "313809",
+        "name": "ECP NORTH BENFLEET",
+        "type": "DELIVERY_STA",
+        "postCode": "SS13 1DG"
+    },
+    {
+        "staId": 1003,
+        "code": "307625",
+        "name": "ECP PADGATE",
+        "type": "DELIVERY_STA",
+        "postCode": "WA2 0PF"
+    },
+    {
+        "staId": 1039,
+        "code": "303556",
+        "name": "ECP PAISLEY",
+        "type": "DELIVERY_STA",
+        "postCode": "PA3 1RX"
+    },
+    {
+        "staId": 1090,
+        "code": "303429",
+        "name": "ECP PERTH",
+        "type": "DELIVERY_STA",
+        "postCode": "PH2 0NJ"
+    },
+    {
+        "staId": 1057,
+        "code": "316535",
+        "name": "ECP POOLE",
+        "type": "DELIVERY_STA",
+        "postCode": "BH15 2BP"
+    },
+    {
+        "staId": 1049,
+        "code": "316016",
+        "name": "ECP SALISBURY",
+        "type": "DELIVERY_STA",
+        "postCode": "SP2 7PL"
+    },
+    {
+        "staId": 1047,
+        "code": "312008",
+        "name": "ECP Slough",
+        "type": "DELIVERY_STA",
+        "postCode": "SL1 1YW"
+    },
+    {
+        "staId": 1093,
+        "code": "306203",
+        "name": "ECP SUNDERLAND",
+        "type": "DELIVERY_STA",
+        "postCode": "SR2 9TE"
+    },
+    {
+        "staId": 1050,
+        "code": "311347",
+        "name": "ECP Taunton",
+        "type": "DELIVERY_STA",
+        "postCode": "TA2 8DB"
+    },
+    {
+        "staId": 1070,
+        "code": "306907",
+        "name": "ECP YORK",
+        "type": "DELIVERY_STA",
+        "postCode": "YO23 3PS"
+    }
+]

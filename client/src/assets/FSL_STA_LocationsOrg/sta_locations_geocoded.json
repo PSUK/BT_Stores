@@ -1,0 +1,149 @@
+[
+  {
+    "name": "ECP AYLESBURY",
+    "type": "DELIVERY_STA",
+    "postcode": "HP19 8BP",
+    "latitude": 51.821391,
+    "longitude": -0.831751
+  },
+  {
+    "name": "ECP BANBURY CROSS",
+    "type": "DELIVERY_STA",
+    "postcode": "OX16 5PE",
+    "latitude": 52.06417,
+    "longitude": -1.336943
+  },
+  {
+    "name": "ECP Barnstaple",
+    "type": "DELIVERY_STA",
+    "postcode": "EX32 8BE",
+    "latitude": 51.075246,
+    "longitude": -4.046551
+  },
+  {
+    "name": "ECP BOSTON",
+    "type": "DELIVERY_STA",
+    "postcode": "PE21 8RP",
+    "latitude": 52.978826,
+    "longitude": -0.030114
+  },
+  {
+    "name": "ECP COLCHESTER",
+    "type": "DELIVERY_STA",
+    "postcode": "CO1 1YD",
+    "latitude": 51.897732,
+    "longitude": 0.913617
+  },
+  {
+    "name": "ECP DUMFRIES",
+    "type": "DELIVERY_STA",
+    "postcode": "DG1 1PG",
+    "latitude": 55.076053,
+    "longitude": -3.60173
+  },
+  {
+    "name": "ECP Gloucester",
+    "type": "DELIVERY_STA",
+    "postcode": "GL2 5BT",
+    "latitude": 51.845463,
+    "longitude": -2.266293
+  },
+  {
+    "name": "ECP GRIMSBY",
+    "type": "DELIVERY_STA",
+    "postcode": "DN31 2TG",
+    "latitude": 53.575277,
+    "longitude": -0.117932
+  },
+  {
+    "name": "ECP Kings Lynn",
+    "type": "DELIVERY_STA",
+    "postcode": "PE34 3AE",
+    "latitude": 52.733463,
+    "longitude": 0.391789
+  },
+  {
+    "name": "ECP LIVINGSTON",
+    "type": "DELIVERY_STA",
+    "postcode": "EH54 5EL",
+    "latitude": 55.907192,
+    "longitude": -3.504377
+  },
+  {
+    "name": "ECP MOTHERWELL",
+    "type": "DELIVERY_STA",
+    "postcode": "ML1 2AP",
+    "latitude": 55.78092,
+    "longitude": -3.972112
+  },
+  {
+    "name": "ECP NORTH BENFLEET",
+    "type": "DELIVERY_STA",
+    "postcode": "SS13 1DG",
+    "latitude": 51.584924,
+    "longitude": 0.506186
+  },
+  {
+    "name": "ECP PADGATE",
+    "type": "DELIVERY_STA",
+    "postcode": "WA2 0PF",
+    "latitude": 53.41148,
+    "longitude": -2.557938
+  },
+  {
+    "name": "ECP PAISLEY",
+    "type": "DELIVERY_STA",
+    "postcode": "PA3 1RX",
+    "latitude": 55.853915,
+    "longitude": -4.435334
+  },
+  {
+    "name": "ECP PERTH",
+    "type": "DELIVERY_STA",
+    "postcode": "PH2 0NJ",
+    "latitude": 56.383486,
+    "longitude": -3.435744
+  },
+  {
+    "name": "ECP POOLE",
+    "type": "DELIVERY_STA",
+    "postcode": "BH15 2BP",
+    "latitude": 50.722752,
+    "longitude": -1.979371
+  },
+  {
+    "name": "ECP SALISBURY",
+    "type": "DELIVERY_STA",
+    "postcode": "SP2 7PL",
+    "latitude": 51.070465,
+    "longitude": -1.815541
+  },
+  {
+    "name": "ECP Slough",
+    "type": "DELIVERY_STA",
+    "postcode": "SL1 1YW",
+    "latitude": 51.508493,
+    "longitude": -0.586525
+  },
+  {
+    "name": "ECP SUNDERLAND",
+    "type": "DELIVERY_STA",
+    "postcode": "SR2 9TE",
+    "latitude": 54.879803,
+    "longitude": -1.369461
+  },
+  {
+    "name": "ECP Taunton",
+    "type": "DELIVERY_STA",
+    "postcode": "TA2 8DB",
+    "latitude": 51.027663,
+    "longitude": -3.084829
+  },
+  {
+    "name": "ECP YORK",
+    "type": "DELIVERY_STA",
+    "postcode": "YO23 3PS",
+    "latitude": 53.922511,
+    "longitude": -1.158111
+  }
+]

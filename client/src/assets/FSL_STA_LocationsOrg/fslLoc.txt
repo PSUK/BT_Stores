@@ -1,0 +1,402 @@
+[
+    {
+        "staId": 1089,
+        "code": "318055",
+        "name": "ECP OXFORD",
+        "type": "FSL_STA",
+        "clientCode": "HOX",
+        "postCode": "OX2 8JP"
+    },
+    {
+        "staId": 1009,
+        "code": "301061",
+        "name": "FSL ABERDEEN",
+        "type": "FSL_STA",
+        "clientCode": "HAB",
+        "postCode": "AB12 4ZD"
+    },
+    {
+        "staId": 1010,
+        "code": "500799",
+        "name": "FSL ALDERSHOT",
+        "type": "FSL_STA",
+        "clientCode": "HAL",
+        "postCode": "GU11 2AH"
+    },
+    {
+        "staId": 1086,
+        "code": "308849",
+        "name": "FSL BANGOR",
+        "type": "FSL_STA",
+        "clientCode": "HLL",
+        "postCode": "LL57 4SS"
+    },
+    {
+        "staId": 1032,
+        "code": "500240",
+        "name": "FSL BLOXWICH",
+        "type": "FSL_STA",
+        "clientCode": "HWS",
+        "postCode": "WS2 7NW"
+    },
+    {
+        "staId": 1013,
+        "code": "311198",
+        "name": "FSL BRISTOL",
+        "type": "FSL_STA",
+        "clientCode": "HBS",
+        "postCode": "BS7 0BQ"
+    },
+    {
+        "staId": 1078,
+        "code": "314021",
+        "name": "FSL CANTERBURY",
+        "type": "FSL_STA",
+        "clientCode": "HCT",
+        "postCode": "CT4 5HW"
+    },
+    {
+        "staId": 1058,
+        "code": "309476",
+        "name": "FSL CARDIFF",
+        "type": "FSL_STA",
+        "clientCode": "HCF",
+        "postCode": "CF14 7XZ"
+    },
+    {
+        "staId": 1015,
+        "code": "313003",
+        "name": "FSL CHELMSFORD",
+        "type": "FSL_STA",
+        "clientCode": "HCM",
+        "postCode": "CM1 3BY"
+    },
+    {
+        "staId": 1014,
+        "code": "308852",
+        "name": "FSL CHESTER",
+        "type": "FSL_STA",
+        "clientCode": "HCH",
+        "postCode": "CH1 4NT"
+    },
+    {
+        "staId": 1017,
+        "code": "318004",
+        "name": "FSL COVENTRY",
+        "type": "FSL_STA",
+        "clientCode": "HCV",
+        "postCode": "CV6 5SL"
+    },
+    {
+        "staId": 1091,
+        "code": "312021",
+        "name": "FSL CRAWLEY",
+        "type": "FSL_STA",
+        "clientCode": "HRH",
+        "postCode": "RH10 9JY"
+    },
+    {
+        "staId": 1016,
+        "code": "314036",
+        "name": "FSL CROYDON",
+        "type": "FSL_STA",
+        "clientCode": "HCR",
+        "postCode": "CR0 3AQ"
+    },
+    {
+        "staId": 1061,
+        "code": "303596",
+        "name": "FSL DUNDEE",
+        "type": "FSL_STA",
+        "clientCode": "HDD",
+        "postCode": "DD4 8LD"
+    },
+    {
+        "staId": 1080,
+        "code": "303463",
+        "name": "FSL EDINBURGH",
+        "type": "FSL_STA",
+        "clientCode": "HEH",
+        "postCode": "EH11 4DT"
+    },
+    {
+        "staId": 1081,
+        "code": "317021",
+        "name": "FSL EXETER",
+        "type": "FSL_STA",
+        "clientCode": "HEX",
+        "postCode": "EX1 3QD"
+    },
+    {
+        "staId": 1035,
+        "code": "303565",
+        "name": "FSL GLASGOW NORTH",
+        "type": "FSL_STA",
+        "clientCode": "HG2",
+        "postCode": "G22 6HH"
+    },
+    {
+        "staId": 1064,
+        "code": "314025",
+        "name": "FSL HASTINGS",
+        "type": "FSL_STA",
+        "clientCode": "HHA",
+        "postCode": "TN37 7PE"
+    },
+    {
+        "staId": 1066,
+        "code": "308854",
+        "name": "FSL HEREFORD",
+        "type": "FSL_STA",
+        "clientCode": "HHR",
+        "postCode": "HR4 9SH"
+    },
+    {
+        "staId": 1056,
+        "code": "308826",
+        "name": "FSL HOCKLEY",
+        "type": "FSL_STA",
+        "clientCode": "HB1",
+        "postCode": "B18 6LZ"
+    },
+    {
+        "staId": 1074,
+        "code": "316003",
+        "name": "FSL HOVE",
+        "type": "FSL_STA",
+        "clientCode": "HBN",
+        "postCode": "BN3 7EG"
+    },
+    {
+        "staId": 1019,
+        "code": "313008",
+        "name": "FSL IPSWICH",
+        "type": "FSL_STA",
+        "clientCode": "HIP",
+        "postCode": "IP5 3RE"
+    },
+    {
+        "staId": 1083,
+        "code": "315522",
+        "name": "FSL KIDBROOKE",
+        "type": "FSL_STA",
+        "clientCode": "HKI",
+        "postCode": "SE18 4LH"
+    },
+    {
+        "staId": 1038,
+        "code": "314027",
+        "name": "FSL LARKFIELD",
+        "type": "FSL_STA",
+        "clientCode": "HME",
+        "postCode": "ME20 6XT"
+    },
+    {
+        "staId": 1037,
+        "code": "305649",
+        "name": "FSL LEEDS",
+        "type": "FSL_STA",
+        "clientCode": "HLS",
+        "postCode": "LS11 5TJ"
+    },
+    {
+        "staId": 1023,
+        "code": "318023",
+        "name": "FSL LEICESTER",
+        "type": "FSL_STA",
+        "clientCode": "HLE",
+        "postCode": "LE4 0BX"
+    },
+    {
+        "staId": 1087,
+        "code": "312018",
+        "name": "FSL LUTON",
+        "type": "FSL_STA",
+        "clientCode": "HLU",
+        "postCode": "LU4 9RR"
+    },
+    {
+        "staId": 1088,
+        "code": "307101",
+        "name": "FSL MANCHESTER EAST",
+        "type": "FSL_STA",
+        "clientCode": "HM1",
+        "postCode": "M18 8BA"
+    },
+    {
+        "staId": 1025,
+        "code": "314018",
+        "name": "FSL MILTON KEYNES",
+        "type": "FSL_STA",
+        "clientCode": "HMK",
+        "postCode": "MK6 1BA"
+    },
+    {
+        "staId": 1005,
+        "code": "312016",
+        "name": "FSL NORTHAMPTON",
+        "type": "FSL_STA",
+        "clientCode": "HNN",
+        "postCode": "NN5 7RD"
+    },
+    {
+        "staId": 1053,
+        "code": "312026",
+        "name": "FSL NORTHOLT",
+        "type": "FSL_STA",
+        "clientCode": "HUB",
+        "postCode": "UB5 6HE"
+    },
+    {
+        "staId": 1018,
+        "code": "314695",
+        "name": "FSL NORTH WOOLWICH",
+        "type": "FSL_STA",
+        "clientCode": "HE9",
+        "postCode": "E16 2ZD"
+    },
+    {
+        "staId": 1026,
+        "code": "313012",
+        "name": "FSL NORWICH",
+        "type": "FSL_STA",
+        "clientCode": "HNR",
+        "postCode": "NR7 0WJ"
+    },
+    {
+        "staId": 1004,
+        "code": "318016",
+        "name": "FSL NOTTINGHAM",
+        "type": "FSL_STA",
+        "clientCode": "HNG",
+        "postCode": "NG6 0ED"
+    },
+    {
+        "staId": 1027,
+        "code": "317016",
+        "name": "FSL PLYMOUTH",
+        "type": "FSL_STA",
+        "clientCode": "HPL",
+        "postCode": "PL6 5DT"
+    },
+    {
+        "staId": 1042,
+        "code": "307070",
+        "name": "FSL PRESTON",
+        "type": "FSL_STA",
+        "clientCode": "HPR",
+        "postCode": "PR1 5BY"
+    },
+    {
+        "staId": 1044,
+        "code": "306182",
+        "name": "FSL SHEFFIELD",
+        "type": "FSL_STA",
+        "clientCode": "HS9",
+        "postCode": "S9 4WJ"
+    },
+    {
+        "staId": 1069,
+        "code": "308803",
+        "name": "FSL SHREWSBURY",
+        "type": "FSL_STA",
+        "clientCode": "HSY",
+        "postCode": "SY1 3AQ"
+    },
+    {
+        "staId": 1048,
+        "code": "316015",
+        "name": "FSL SOUTHAMPTON",
+        "type": "FSL_STA",
+        "clientCode": "HSO",
+        "postCode": "SO16 0YU"
+    },
+    {
+        "staId": 1046,
+        "code": "307176",
+        "name": "FSL ST HELENS",
+        "type": "FSL_STA",
+        "clientCode": "HSH",
+        "postCode": "WA9 3DZ"
+    },
+    {
+        "staId": 1028,
+        "code": "307124",
+        "name": "FSL STOCKPORT",
+        "type": "FSL_STA",
+        "clientCode": "HSK",
+        "postCode": "SK6 2QT"
+    },
+    {
+        "staId": 1029,
+        "code": "308836",
+        "name": "FSL STOKE",
+        "type": "FSL_STA",
+        "clientCode": "HST",
+        "postCode": "ST3 7LF"
+    },
+    {
+        "staId": 1045,
+        "code": "310020",
+        "name": "FSL SWANSEA",
+        "type": "FSL_STA",
+        "clientCode": "HSA",
+        "postCode": "SA1 6SA"
+    },
+    {
+        "staId": 1007,
+        "code": "312030",
+        "name": "FSL SWINDON",
+        "type": "FSL_STA",
+        "clientCode": "HSN",
+        "postCode": "SN2 2QB"
+    },
+    {
+        "staId": 1002,
+        "code": "305783",
+        "name": "FSL TEAM VALLEY",
+        "type": "FSL_STA",
+        "clientCode": "HNE",
+        "postCode": "NE11 0PA"
+    },
+    {
+        "staId": 1051,
+        "code": "317012",
+        "name": "FSL TRURO",
+        "type": "FSL_STA",
+        "clientCode": "HTR",
+        "postCode": "TR4 9LD"
+    },
+    {
+        "staId": 1030,
+        "code": "314030",
+        "name": "FSL TUNBRIDGE WELLS",
+        "type": "FSL_STA",
+        "clientCode": "HTN",
+        "postCode": "TN2 5RE"
+    },
+    {
+        "staId": 1031,
+        "code": "500797",
+        "name": "FSL TWICKENHAM",
+        "type": "FSL_STA",
+        "clientCode": "HTW",
+        "postCode": "TW2 7BE"
+    },
+    {
+        "staId": 1034,
+        "code": "314038",
+        "name": "FSL WALTHAM CROSS",
+        "type": "FSL_STA",
+        "clientCode": "HEN",
+        "postCode": "EN8 7DQ"
+    },
+    {
+        "staId": 1055,
+        "code": "308831",
+        "name": "FSL WORCESTER",
+        "type": "FSL_STA",
+        "clientCode": "HWR",
+        "postCode": "WR4 9UE"
+    }
+]

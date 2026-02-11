@@ -1,0 +1,24 @@
+{
+    "version": 2,
+    "buildCommand": "cd client && npm install && npm run build",
+    "outputDirectory": "client/dist",
+    "installCommand": "cd server && npm install && npx prisma generate",
+    "rewrites": [
+        {
+            "source": "/auth/(.*)",
+            "destination": "/api"
+        },
+        {
+            "source": "/stores/(.*)",
+            "destination": "/api"
+        },
+        {
+            "source": "/stores",
+            "destination": "/api"
+        },
+        {
+            "source": "/health",
+            "destination": "/api"
+        }
+    ]
+}

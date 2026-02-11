@@ -1,0 +1,11 @@
+{
+    "name": "bt-store-locator",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "dev:server": "npm run dev --prefix server",
+        "dev:client": "npm run dev --prefix client",
+        "build": "cd client && npm install && npm run build",
+        "seed": "npm run seed --prefix server"
+    }
+}

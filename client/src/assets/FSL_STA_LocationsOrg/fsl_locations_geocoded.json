@@ -1,0 +1,352 @@
+[
+  {
+    "name": "ECP OXFORD",
+    "type": "FSL_STA",
+    "postcode": "OX2 8JP",
+    "latitude": 51.789077,
+    "longitude": -1.283002
+  },
+  {
+    "name": "FSL ABERDEEN",
+    "type": "FSL_STA",
+    "postcode": "AB12 4ZD",
+    "latitude": 57.072531,
+    "longitude": -2.153921
+  },
+  {
+    "name": "FSL ALDERSHOT",
+    "type": "FSL_STA",
+    "postcode": "GU11 2AH",
+    "latitude": 51.249213,
+    "longitude": -0.75574
+  },
+  {
+    "name": "FSL BANGOR",
+    "type": "FSL_STA",
+    "postcode": "LL57 4SS",
+    "latitude": 53.216538,
+    "longitude": -4.108444
+  },
+  {
+    "name": "FSL BLOXWICH",
+    "type": "FSL_STA",
+    "postcode": "WS2 7NW",
+    "latitude": 52.611175,
+    "longitude": -2.014202
+  },
+  {
+    "name": "FSL BRISTOL",
+    "type": "FSL_STA",
+    "postcode": "BS7 0BQ",
+    "latitude": 51.49263,
+    "longitude": -2.580242
+  },
+  {
+    "name": "FSL CANTERBURY",
+    "type": "FSL_STA",
+    "postcode": "CT4 5HW",
+    "latitude": 51.239361,
+    "longitude": 1.148035
+  },
+  {
+    "name": "FSL CARDIFF",
+    "type": "FSL_STA",
+    "postcode": "CF14 7XZ",
+    "latitude": 51.520011,
+    "longitude": -3.247339
+  },
+  {
+    "name": "FSL CHELMSFORD",
+    "type": "FSL_STA",
+    "postcode": "CM1 3BY",
+    "latitude": 51.721166,
+    "longitude": 0.449843
+  },
+  {
+    "name": "FSL CHESTER",
+    "type": "FSL_STA",
+    "postcode": "CH1 4NT",
+    "latitude": 53.193498,
+    "longitude": -2.913312
+  },
+  {
+    "name": "FSL COVENTRY",
+    "type": "FSL_STA",
+    "postcode": "CV6 5SL",
+    "latitude": 52.41829,
+    "longitude": -1.494644
+  },
+  {
+    "name": "FSL CRAWLEY",
+    "type": "FSL_STA",
+    "postcode": "RH10 9JY",
+    "latitude": 51.134686,
+    "longitude": -0.173087
+  },
+  {
+    "name": "FSL CROYDON",
+    "type": "FSL_STA",
+    "postcode": "CR0 3AQ",
+    "latitude": 51.390493,
+    "longitude": -0.134444
+  },
+  {
+    "name": "FSL DUNDEE",
+    "type": "FSL_STA",
+    "postcode": "DD4 8LD",
+    "latitude": 56.4778,
+    "longitude": -2.923486
+  },
+  {
+    "name": "FSL EDINBURGH",
+    "type": "FSL_STA",
+    "postcode": "EH11 4DT",
+    "latitude": 55.926576,
+    "longitude": -3.300637
+  },
+  {
+    "name": "FSL EXETER",
+    "type": "FSL_STA",
+    "postcode": "EX1 3QD",
+    "latitude": 50.729703,
+    "longitude": -3.471007
+  },
+  {
+    "name": "FSL GLASGOW NORTH",
+    "type": "FSL_STA",
+    "postcode": "G22 6HH",
+    "latitude": 55.888388,
+    "longitude": -4.249042
+  },
+  {
+    "name": "FSL HASTINGS",
+    "type": "FSL_STA",
+    "postcode": "TN37 7PE",
+    "latitude": 50.882779,
+    "longitude": 0.552126
+  },
+  {
+    "name": "FSL HEREFORD",
+    "type": "FSL_STA",
+    "postcode": "HR4 9SH",
+    "latitude": 52.070232,
+    "longitude": -2.720114
+  },
+  {
+    "name": "FSL HOCKLEY",
+    "type": "FSL_STA",
+    "postcode": "B18 6LZ",
+    "latitude": 52.491224,
+    "longitude": -1.921069
+  },
+  {
+    "name": "FSL HOVE",
+    "type": "FSL_STA",
+    "postcode": "BN3 7EG",
+    "latitude": 50.838623,
+    "longitude": -0.186036
+  },
+  {
+    "name": "FSL IPSWICH",
+    "type": "FSL_STA",
+    "postcode": "IP5 3RE",
+    "latitude": 52.058968,
+    "longitude": 1.279031
+  },
+  {
+    "name": "FSL KIDBROOKE",
+    "type": "FSL_STA",
+    "postcode": "SE18 4LH",
+    "latitude": 51.471926,
+    "longitude": 0.053158
+  },
+  {
+    "name": "FSL LARKFIELD",
+    "type": "FSL_STA",
+    "postcode": "ME20 6XT",
+    "latitude": 51.311963,
+    "longitude": 0.452105
+  },
+  {
+    "name": "FSL LEEDS",
+    "type": "FSL_STA",
+    "postcode": "LS11 5TJ",
+    "latitude": 53.769862,
+    "longitude": -1.547745
+  },
+  {
+    "name": "FSL LEICESTER",
+    "type": "FSL_STA",
+    "postcode": "LE4 0BX",
+    "latitude": 52.646021,
+    "longitude": -1.144576
+  },
+  {
+    "name": "FSL LUTON",
+    "type": "FSL_STA",
+    "postcode": "LU4 9RR",
+    "latitude": 51.895795,
+    "longitude": -0.450804
+  },
+  {
+    "name": "FSL MANCHESTER EAST",
+    "type": "FSL_STA",
+    "postcode": "M18 8BA",
+    "latitude": 53.465512,
+    "longitude": -2.183833
+  },
+  {
+    "name": "FSL MILTON KEYNES",
+    "type": "FSL_STA",
+    "postcode": "MK6 1BA",
+    "latitude": 52.020846,
+    "longitude": -0.755271
+  },
+  {
+    "name": "FSL NORTHAMPTON",
+    "type": "FSL_STA",
+    "postcode": "NN5 7RD",
+    "latitude": 52.251518,
+    "longitude": -0.916007
+  },
+  {
+    "name": "FSL NORTHOLT",
+    "type": "FSL_STA",
+    "postcode": "UB5 6HE",
+    "latitude": 51.534259,
+    "longitude": -0.388744
+  },
+  {
+    "name": "FSL NORTH WOOLWICH",
+    "type": "FSL_STA",
+    "postcode": "E16 2ZD",
+    "latitude": 51.499073,
+    "longitude": 0.058383
+  },
+  {
+    "name": "FSL NORWICH",
+    "type": "FSL_STA",
+    "postcode": "NR7 0WJ",
+    "latitude": 52.632761,
+    "longitude": 1.376341
+  },
+  {
+    "name": "FSL NOTTINGHAM",
+    "type": "FSL_STA",
+    "postcode": "NG6 0ED",
+    "latitude": 52.988649,
+    "longitude": -1.17799
+  },
+  {
+    "name": "FSL PLYMOUTH",
+    "type": "FSL_STA",
+    "postcode": "PL6 5DT",
+    "latitude": 50.41629,
+    "longitude": -4.135542
+  },
+  {
+    "name": "FSL PRESTON",
+    "type": "FSL_STA",
+    "postcode": "PR1 5BY",
+    "latitude": 53.766481,
+    "longitude": -2.685121
+  },
+  {
+    "name": "FSL SHEFFIELD",
+    "type": "FSL_STA",
+    "postcode": "S9 4WJ",
+    "latitude": 53.382764,
+    "longitude": -1.432406
+  },
+  {
+    "name": "FSL SHREWSBURY",
+    "type": "FSL_STA",
+    "postcode": "SY1 3AQ",
+    "latitude": 52.737411,
+    "longitude": -2.728024
+  },
+  {
+    "name": "FSL SOUTHAMPTON",
+    "type": "FSL_STA",
+    "postcode": "SO16 0YU",
+    "latitude": 50.940301,
+    "longitude": -1.475001
+  },
+  {
+    "name": "FSL ST HELENS",
+    "type": "FSL_STA",
+    "postcode": "WA9 3DZ",
+    "latitude": 53.442778,
+    "longitude": -2.711623
+  },
+  {
+    "name": "FSL STOCKPORT",
+    "type": "FSL_STA",
+    "postcode": "SK6 2QT",
+    "latitude": 53.429024,
+    "longitude": -2.124649
+  },
+  {
+    "name": "FSL STOKE",
+    "type": "FSL_STA",
+    "postcode": "ST3 7LF",
+    "latitude": 52.97178,
+    "longitude": -2.094588
+  },
+  {
+    "name": "FSL SWANSEA",
+    "type": "FSL_STA",
+    "postcode": "SA1 6SA",
+    "latitude": 51.632313,
+    "longitude": -3.971912
+  },
+  {
+    "name": "FSL SWINDON",
+    "type": "FSL_STA",
+    "postcode": "SN2 2QB",
+    "latitude": 51.572171,
+    "longitude": -1.806319
+  },
+  {
+    "name": "FSL TEAM VALLEY",
+    "type": "FSL_STA",
+    "postcode": "NE11 0PA",
+    "latitude": 54.930252,
+    "longitude": -1.620276
+  },
+  {
+    "name": "FSL TRURO",
+    "type": "FSL_STA",
+    "postcode": "TR4 9LD",
+    "latitude": 50.261693,
+    "longitude": -5.123058
+  },
+  {
+    "name": "FSL TUNBRIDGE WELLS",
+    "type": "FSL_STA",
+    "postcode": "TN2 5RE",
+    "latitude": 51.121428,
+    "longitude": 0.253876
+  },
+  {
+    "name": "FSL TWICKENHAM",
+    "type": "FSL_STA",
+    "postcode": "TW2 7BE",
+    "latitude": 51.452175,
+    "longitude": -0.36072
+  },
+  {
+    "name": "FSL WALTHAM CROSS",
+    "type": "FSL_STA",
+    "postcode": "EN8 7DQ",
+    "latitude": 51.68773,
+    "longitude": -0.031726
+  },
+  {
+    "name": "FSL WORCESTER",
+    "type": "FSL_STA",
+    "postcode": "WR4 9UE",
+    "latitude": 52.207342,
+    "longitude": -2.198809
+  }
+]

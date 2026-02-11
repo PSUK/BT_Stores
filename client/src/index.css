@@ -1,0 +1,39 @@
+@import "tailwindcss";
+@import "leaflet/dist/leaflet.css";
+@import "leaflet-routing-machine/dist/leaflet-routing-machine.css";
+
+@theme {
+  --color-bt-magenta: #E6007E;
+  --color-bt-blue: #0099FF;
+  --color-bt-dark: #111827;
+  --color-bt-light: #F3F4F6;
+}
+
+@layer base {
+  body {
+    @apply bg-gray-50 text-gray-900 antialiased font-sans;
+  }
+
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply font-bold text-bt-dark;
+  }
+}
+
+/* Ensure Leaflet container takes full space and fixes stacking/display issues */
+.leaflet-container {
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+  isolation: isolate;
+}
+
+/* Fix potential z-index collision with map controls */
+.leaflet-top,
+.leaflet-bottom {
+  z-index: 1000 !important;
+}
