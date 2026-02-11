@@ -45,7 +45,8 @@ export default function BulkImport({ onClose, onSuccess }: BulkImportProps) {
                             postcode,
                             lat: parseFloat(latStr),
                             lng: parseFloat(lngStr),
-                            notes: parts[5] || ''
+                            notes: parts[5] || '',
+                            type: (parts[6] || 'DELIVERY_STA') as 'DELIVERY_STA' | 'FSL_STA'
                         }, token);
                         successCount++;
                     } else {

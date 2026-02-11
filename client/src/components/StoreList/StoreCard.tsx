@@ -1,6 +1,6 @@
 import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
-import { MapPin, Navigation, Clock, ChevronRight, Truck, Package, Plus, Save, X, NotebookPen, Pencil, Trash2 } from 'lucide-react';
+import { MapPin, Navigation, Clock, ChevronRight, Truck, Package, Save, X, NotebookPen, Pencil, Trash2 } from 'lucide-react';
 import { type Store, updateStoreNote } from '../../api/stores';
 import { useStores } from '../../context/StoreContext';
 
